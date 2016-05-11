@@ -1,0 +1,8 @@
+{
+  "name": "header-parser",
+  "version": "1.0.0",
+  "description": "FreeCodeCamp - Request Header Parser Microservice: I can get the IP address, language and operating system for my browser.",
+  "main": "server.js",
+  "author": "Henrique Alexandre <alexandressh@gmail.com>",
+  "license": "ISC"
+}
